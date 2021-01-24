@@ -4,3 +4,6 @@
 
 ### Entity Diagram
 ![Entity Diagram](ClassDiagram/entity_diagram.jpg?raw=true  "Entity Diagram")
+*to open the file use rmainframe in presentation layer and then mainframe.java*
+*admin navdeep hehe*
+*show all the features*
